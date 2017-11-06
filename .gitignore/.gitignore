@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html lang="en-ca">
+<head>
+ <meta charset="utf-8">
+
+ <title>CP202: Assignment 4 Submission</title>
+</head>
+
+<body>
+ <h1>CP202: Assignment 4 Submission</h1>
+
+ <h2>Website Conceptual Design</h2>
+
+ <p><strong>Name:</strong> Benjamin Vandergeest<br>
+ <strong>ID:</strong> 130713440<br>
+ <strong>Email:</strong> vand3440@mylaurier.ca</p>
+ <hr>
+<p><strong>Name:</strong> Daniel Riondato<br>
+  <strong>ID:</strong> 140826090<br>
+  <strong>Email:</strong> rion6090@mylaurier.ca</p>
+  <hr>
+
+ <p><strong>Title:</strong> Kanuck Sports Stats</p>
+
+ <p><strong>Refined Mission Statement:</strong></p>
+
+ <p>Our mission is to provide excellent data on NHL players for avid fans and sports enthusiasts. Based on our research we have found a demand for accurate and continually updated stats on the league's players.  We promise to deliver accurate statistics in a user friendly setting to accommodate any fan from those just learning about the sport to those who study, play and even bet on fantasy. </p>
+
+ 
+
+<p><strong>Website Structure and Organization:</strong></p>
+
+ <p>The website's structure will be designed in a linear organization. The website will start from the home page that gives the user one option to explore stats for NHL players.  On the stats page it will give the user filter options to sort by player or goalie. Once selected the user can apply a few filters that will allow them to obtain the exact stats they are looking for. This gives the website only four pages for the user to enter; The Main, Player Stats and Goalie Stats as well as an about page. This will provide a simple structure and organization that will allow the user to fluidly use the website.  </p>
+
+ <p><strong>Navigation Scheme:</strong></p>
+
+ <p>Describe your website's navigation scheme.
+The navigation scheme will be simple with clearly labelled buttons to take the user to the different stats pages. It will have a clear header that will provide accurate links to the other pages on the site. A simplistic layout will be helpful to new faces of the sport who are not familiar with its terminology or significant statistics, this will ease the learning curve and help new users navigate the website.   </p>
+
+ <p><strong>General Layout:</strong></p>
+
+ <p>The main page that will contain all of the stats will be organized with a large sortable table. This is the best method to display stats in a user friendly way. The main page will have a description of the website as well as useful information. There will be a few hockey related images to give the website some visual appeal. </p>
+
+ <p><strong>Page List:</strong></p>
+
+ <p>List your website pages in the following table:</p>
+
+ <table border="1" cellpadding="2" cellspacing="0" summary="List of website pages">
+   <caption>
+     <strong>Website Pages</strong>
+   </caption>
+
+   <thead>
+     <tr>
+       <th>Title</th>
+
+       <th>Purpose</th>
+
+       <th>Content</th>
+
+       <th>Updating</th>
+     </tr>
+   </thead>
+
+   <tbody>
+     <tr>
+       <td>About</td>
+       </td>
+       <td>To provide the user with information about the creators and editor, who run the site.</td>
+
+       <td>How we attain our stats and information about the creators as sports fans. </td>
+
+       <td>Doesn't change</td>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+       <td>Stats</td>
+       
+       <td>This is the main use of the site to display NHL statistics.</td>
+
+       <td>A table for Players and goalies showing the key statistics with a legend for the user. Also allows for sortable fields.</td>
+
+       <td>This will be updated on days that contain NHL games. Usually to be done late after all games are completed. </td>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+       <td>Home</td>
+       </td>
+       <td>This will give the user a chance to select eith player or goalie stats to view. Also Introduce the site. </td>
+       <td> An introduction to the site as well as brief instructions. This will be where the links to the stats pages will be. </td>
+
+       <td>The page will not change. </td>
+     </tr>
+   </tbody>
+
+ </table>
+
+ <p><strong>Other:</strong></p>
+
+ <p>The website will remain in a simple format. Most of the users will spend the majority of their time on the stats pages looking up and analyzing key player stats. The table will have to be filterable and sortable yet in a clean interface to retain user traffic. </p>
+</body>
+</html>
+
+
